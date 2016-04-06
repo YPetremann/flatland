@@ -1,0 +1,8 @@
+{
+  "name": "flatland",
+  "version": "0.12.0",
+  "title": "Flatland",
+  "author": "Y.Petremann",
+  "description": "Modify world to concrete and clean water, remove decorative entities.",
+  "dependencies": ["base >= 0.12.11"]
+}
